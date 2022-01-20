@@ -131,7 +131,7 @@ abstract class XmlConverter implements GenericConverter
         else {
             
             if(!$xmlRow->children() && $iterator===count($headerLevels)-1) {
-                return substr($xmlRow,0,5);
+                return $xmlRow;
             }
 
             elseif(array_key_exists($iterator+1,$headerLevels)) {
