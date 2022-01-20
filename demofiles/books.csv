@@ -1,0 +1,12 @@
+book>author>firstName,book>title,book>genre,book>price,book>publish-date,book>description,book>author,book>publish-date>day,book>publish-date>month,book>publish-date>year
+Ding,Midni,Fanta,5.95,2000-,"A for",,,,
+,Maeve,Fanta,5.95,2000-,After,Coret,,,
+,Obero,Fanta,5.95,2001-,"In po",Coret,,,
+,"The S",Fanta,5.95,,"The t",Coret,20,10,2030
+,Lover,Roman,4.95,2000-,"When ",Randa,,,
+,Splis,Roman,4.95,2000-,"A dee",Thurm,,,
+,Creep,Horro,4.95,2000-,"An an",Knorr,,,
+,Parad,Scien,6.95,2000-,After,Kress,,,
+,Micro,Compu,36.95,2000-,Micro,O'Bri,,,
+,MSXML,Compu,36.95,2000-,"The M",O'Bri,,,
+,Visua,Compu,49.95,2001-,Micro,Galos,,,
