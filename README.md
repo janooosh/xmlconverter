@@ -15,7 +15,7 @@ php App.php convertFile <pathToFile> <targetFormat>
 ```
 
 ## Demofile
-Das demofiles Verzeichnis enthält eine XML Datei.
+Das demofiles Verzeichnis enthält zwei XML Dateien.
 ```php
-php App.php convertFile demofiles/books.xml csv
+php App.php convertFile demofiles/test.xml csv
 ```
