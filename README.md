@@ -1,4 +1,4 @@
-# XML Converter
+# Symfony XML Converter
 
 ## Installation
 ```php
